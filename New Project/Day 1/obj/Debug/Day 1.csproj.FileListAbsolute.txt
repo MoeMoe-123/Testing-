@@ -1,0 +1,7 @@
+C:\Code\New Project\Day 1\bin\Debug\Day 1.exe.config
+C:\Code\New Project\Day 1\bin\Debug\Day 1.exe
+C:\Code\New Project\Day 1\bin\Debug\Day 1.pdb
+C:\Code\New Project\Day 1\obj\Debug\Day 1.csproj.AssemblyReference.cache
+C:\Code\New Project\Day 1\obj\Debug\Day 1.csproj.CoreCompileInputs.cache
+C:\Code\New Project\Day 1\obj\Debug\Day 1.exe
+C:\Code\New Project\Day 1\obj\Debug\Day 1.pdb
